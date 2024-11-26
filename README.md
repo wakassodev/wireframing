@@ -44,8 +44,7 @@ Wireframes can be categorized into two types:
 
 **Screens Attached**: The provided screens represent **High-Fidelity Wireframes**, as they include detailed visuals, typography, and functionality.
 
-![ALX Booking System](Home.png)
-
+![ALX Booking System](home.png)
 
 ---
 
