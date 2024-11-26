@@ -50,7 +50,7 @@ Wireframes can be categorized into two types:
 
 **High-Fidelity Wireframes**:
 
-![ALX Booking System](Home.png)
+![ALX Booking System](High-fidelity.png)
 
 ---
 
